@@ -12,4 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Top Languages](https://vercel.app)](https://github.com/hedgwhog/github-readme-stats)
+<p align="center">
+  <img src="https://vercel.app" alt="hedgwhog's Top Languages" />
+</p>
+
