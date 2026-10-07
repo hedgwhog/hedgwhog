@@ -12,7 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://vercel.app" alt="hedgwhog's Top Languages" />
-</p>
+[![Top Langs](https://YOUR-DOMAIN/api/top-langs-ascii?username=hedgwhog&langs_count=8)](https://github.com/hedgwhog)
 
