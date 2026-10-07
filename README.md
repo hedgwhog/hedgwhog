@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://YOUR-DOMAIN/api/top-langs-ascii?username=hedgwhog&langs_count=8)](https://github.com/hedgwhog)
+[![Top Langs](https://github-readme-stats-eight-lime-n2fukqtlj4.vercel.app/api/top-langs-ascii?username=hedgwhog&langs_count=8)](https://github.com/hedgwhog)
 
