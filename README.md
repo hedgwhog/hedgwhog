@@ -2,7 +2,9 @@
 
 Feel free to call me hedge or hedgie, since it could be confusing how to pronounce my name. My name was originally a typo anyway. 
 
-I mostly make unusual designs into static webapplications, but I do also make some other things here and there.
+I work on unusual static applications and ASCII related things. I like building non-corporate designs, with a focus on UX. For me the most important aspect of an application, is to give users a lovely experience.
+
+You can reach me on this [email](mailto:hedgwhog@gmail.com).
 
 <p>
   <img src="https://github-readme-stats-eight-lime-n2fukqtlj4.vercel.app/api/top-langs-ascii?username=hedgwhog&langs_count=8&v=4" height="230" />
