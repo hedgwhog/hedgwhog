@@ -7,6 +7,14 @@ I work mostly on unusual static applications and ASCII related things. I like bu
 You can reach me on this [email](mailto:hedgwhog@gmail.com).
 
 <p>
-  <img src="https://github-readme-stats-eight-lime-n2fukqtlj4.vercel.app/api/top-langs-ascii?username=hedgwhog&langs_count=8&v=4" height="230" />
-  <img src="https://github-readme-stats-eight-lime-n2fukqtlj4.vercel.app/api/stats-ascii?username=hedgwhog&langs_count=8&v=5" height="230" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-lime-n2fukqtlj4.vercel.app/api/top-langs-ascii?username=hedgwhog&langs_count=8&theme=dark&v=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-lime-n2fukqtlj4.vercel.app/api/top-langs-ascii?username=hedgwhog&langs_count=8&theme=light&v=6">
+    <img alt="top languages" src="https://github-readme-stats-eight-lime-n2fukqtlj4.vercel.app/api/top-langs-ascii?username=hedgwhog&langs_count=8&theme=light&v=6" height="230" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-lime-n2fukqtlj4.vercel.app/api/stats-ascii?username=hedgwhog&theme=dark&v=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-lime-n2fukqtlj4.vercel.app/api/stats-ascii?username=hedgwhog&theme=light&v=6">
+    <img alt="stats" src="https://github-readme-stats-eight-lime-n2fukqtlj4.vercel.app/api/stats-ascii?username=hedgwhog&theme=light&v=6" height="230" />
+  </picture>
 </p>
