@@ -18,7 +18,7 @@ You can reach me on this [email](mailto:hedgwhog@gmail.com).
 - **[Nen](https://github.com/hedgwhog/nen)** | Roll your own nen attribute from the manga/anime "HxH".
 - **[Cursor](https://github.com/hedgwhog/Cursor)** | Experiment with different cursor settings and feelings.
 - **[Zombie-Slayer-Shooter-5000](https://github.com/hedgwhog/Zombie-Slayer-Shooter-5000)** | A fun (but complicated) browser game developed during a Make-A-Thon.
-- **[Ikea Rooms](https://github.com/Ikea-rooms/)** | Play party games based of an Ikea with friends.
+- **[Ikea Rooms](https://github.com/hedgwhog/Ikea-rooms)** | Play party games based of an Ikea with friends.
 
 <p>
   <picture>
