@@ -6,6 +6,11 @@ I work mostly on unusual static applications and ASCII related things. I like bu
 
 You can reach me on this [email](mailto:hedgwhog@gmail.com).
 
+### Currently working on:
+- **[Just a Little Undercurrent of Noy](https://github.com/hedgwhog/undercurrent-of-noy)** | Play a fishing ASCII text RPG, which an unusual premise (trust).
+- **[Index](https://github.com/hedgwhog/index)** | An agenda (with to do and bucket list) application I developed for my personal use.
+- **[Archive / The Library](https://github.com/hedgwhog/TheLibrary)** | A showcase of my applications in an interactive library. 
+
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-lime-n2fukqtlj4.vercel.app/api/top-langs-ascii?username=hedgwhog&langs_count=8&theme=dark&v=6">
