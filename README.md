@@ -6,10 +6,17 @@ I work mostly on unusual static applications and ASCII related things. I like bu
 
 You can reach me on this [email](mailto:hedgwhog@gmail.com).
 
-### Currently working on:
+### Currently developing:
 - **[Just a Little Undercurrent of Noy](https://github.com/hedgwhog/undercurrent-of-noy)** | Play a fishing ASCII text RPG, which an unusual premise (trust).
 - **[Index](https://github.com/hedgwhog/index)** | An agenda (with to do and bucket list) application I developed for my personal use.
-- **[Archive / The Library](https://github.com/hedgwhog/TheLibrary)** | A showcase of my applications in an interactive library. 
+- **[Archive / The Library](https://github.com/hedgwhog/TheLibrary)** | A showcase of my applications in an interactive library.
+
+### Finished developing:
+- **[Neocity-li](https://github.com/hedgwhog/Neocity-li)** | An evocative city inspired by the game "Stray".
+- **[Nen](https://github.com/hedgwhog/nen)** | Roll your own nen attribute from the manga/anime "HxH".
+- **[Cursor](https://github.com/hedgwhog/Cursor)** | Experiment with different cursor settings and feelings.
+- **[Zombie-Slayer-Shooter-5000](https://github.com/hedgwhog/Zombie-Slayer-Shooter-5000)** | A fun (but complicated) browser game developed during a Make-A-Thon.
+- **[Ikea Rooms](https://github.com/Ikea-rooms/)** | Play party games based of an Ikea with friends.
 
 <p>
   <picture>
