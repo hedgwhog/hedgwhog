@@ -8,6 +8,7 @@ You can reach me on this [email](mailto:hedgwhog@gmail.com).
 
 ### Currently developing:
 - **[Just a Little Undercurrent of Noy](https://github.com/hedgwhog/undercurrent-of-noy)** | Play a fishing ASCII text RPG, which has an unusual premise (trust).
+- **[LgDeck](https://github.com/hedgwhog/LgDeck)** | A flashcard application designed to learn your language of choice. 
 
 ### Currently maintaining:
 - **[Index](https://github.com/hedgwhog/index)** | An agenda (with to do and bucket list) application I developed for my personal use.
